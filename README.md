@@ -1,6 +1,8 @@
 # Emotion
 Live facial expression to emoji with your webcam. Test it [here](emotion.ctmsst.vercel.app).
 
+![demo](.github/demo.png)
+
 ## Dev
 Install dependencies by running the following command:
 ```shell
